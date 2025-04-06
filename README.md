@@ -112,7 +112,7 @@ This project automates the design and deployment of a secure Virtual Network (VN
    ```bash
    chmod +x setup-vnet.sh
    ./setup-vnet.sh
-   ```
+   ```![public subnet](https://github.com/user-attachments/assets/42a9b6cf-0f32-40de-b52b-c94ef31000fb)
 
 3. Wait for deployment to finish. The script will output the **Public VM's IP** address for SSH/web access.
 
